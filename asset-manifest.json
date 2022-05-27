@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hearthstone-secrets/static/css/main.822a0f58.css",
+    "main.js": "/hearthstone-secrets/static/js/main.2dab14b7.js",
+    "static/media/avenge.png": "/hearthstone-secrets/static/media/avenge.349a161d4ace12231a58.png",
+    "static/media/icebarrier.png": "/hearthstone-secrets/static/media/icebarrier.c4fb310ffdf3a7079e0b.png",
+    "static/media/gallopingsavior.png": "/hearthstone-secrets/static/media/gallopingsavior.40df251acdd744de9971.png",
+    "static/media/noblesacrifice.png": "/hearthstone-secrets/static/media/noblesacrifice.043ad18cc2d243078dd1.png",
+    "static/media/judgmentofjustice.png": "/hearthstone-secrets/static/media/judgmentofjustice.b446fef63edc63ff53fd.png",
+    "static/media/explosiverune.png": "/hearthstone-secrets/static/media/explosiverune.7660a0ba2e1d5549f322.png",
+    "static/media/reckoning.png": "/hearthstone-secrets/static/media/reckoning.7ca3e5ae33094ace9074.png",
+    "static/media/freezingtrap.png": "/hearthstone-secrets/static/media/freezingtrap.e0e80cd43f7e01d4ea58.png",
+    "static/media/counterspell.png": "/hearthstone-secrets/static/media/counterspell.63e23011585470e99a61.png",
+    "static/media/snaketrap.png": "/hearthstone-secrets/static/media/snaketrap.1debb2a4f767879d3f16.png",
+    "static/media/icetrap.png": "/hearthstone-secrets/static/media/icetrap.e08ffe3480c1594d1ea0.png",
+    "static/media/oasisally.png": "/hearthstone-secrets/static/media/oasisally.4313d80364f695a8c5a5.png",
+    "static/media/explosivetrap.png": "/hearthstone-secrets/static/media/explosivetrap.ceb17aefdde57ee639b5.png",
+    "static/media/emergencymaneuvers.png": "/hearthstone-secrets/static/media/emergencymaneuvers.a39f09f6bdf46d50a8cd.png",
+    "index.html": "/hearthstone-secrets/index.html",
+    "main.822a0f58.css.map": "/hearthstone-secrets/static/css/main.822a0f58.css.map",
+    "main.2dab14b7.js.map": "/hearthstone-secrets/static/js/main.2dab14b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822a0f58.css",
+    "static/js/main.2dab14b7.js"
+  ]
+}
